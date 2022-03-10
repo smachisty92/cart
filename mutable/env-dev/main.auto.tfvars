@@ -1,0 +1,2 @@
+COMPONENT = "cart"
+ENV = "dev"
