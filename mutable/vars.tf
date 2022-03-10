@@ -5,5 +5,5 @@ variable "SPOT_INSTANCE_TYPE" {}
 variable "COMPONENT" {}
 variable "ENV" {}
 variable "PORT" {}
-#variable "ALB_ATTACH_TO" {}
+variable "ALB_ATTACH_TO" {}
 variable "TRIGGER" {}
