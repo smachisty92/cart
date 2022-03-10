@@ -14,3 +14,7 @@ dev-destroy:
 
 prod-destroy:
 	@cd env-prod && rm -rf .terraform && terraform init && terraform destroy -auto-approve
+
+
+
+#test
